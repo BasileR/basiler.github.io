@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: BasileR
 gitlab_username: # your GitLab user name
-twitter_username: BasileRousse
+#twitter_username: BasileRousse
 linkedin_username: basile-rousse-bb60b2183
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
