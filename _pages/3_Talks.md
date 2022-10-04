@@ -12,7 +12,6 @@ ___
 
 <strong>Population-envrionment-health : connecting pixels </strong> - Ined, 6 July 2022 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Seminar website](https://popenv.site.ined.fr/fr/colloques/population-environment-health-connecting-pixels/) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Presentation](https://basiler.github.io.fr/assets/pdf/20220706_pop_env.pdf)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Presentation](/assets/pdf/20220706_pop_env_web.pdf)
 
 ___
