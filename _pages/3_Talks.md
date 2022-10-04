@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /takls/
+permalink: /talks/
 title: Talks
 nav: true
 nav_order: 5
