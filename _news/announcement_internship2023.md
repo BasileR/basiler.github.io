@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open internship position
+title: Open internship position (filled)
 date: 2022-11-25 
 inline: false
 ---
