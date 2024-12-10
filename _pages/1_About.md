@@ -6,8 +6,8 @@ subtitle: <a href='https://u-paris.fr'>Université Paris Cité</a>, <a href='htt
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic (2).jpg
+  image_circular: True # crops the image to make it circular
   address: >
     <p>Université Paris Cité</p>
     <p>45 rue des Saint-Pères</p>
